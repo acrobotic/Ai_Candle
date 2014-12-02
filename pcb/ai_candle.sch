@@ -14713,12 +14713,12 @@ Standard 8.5x11 US Letter frame</description>
 <description>Ai Sensors</description>
 <packages>
 <package name="TILT">
-<wire x1="-0.492" y1="2" x2="-1.792" y2="0.9" width="0.2032" layer="21" curve="72.591831"/>
-<wire x1="0.746" y1="-2" x2="2.046" y2="-0.9" width="0.2032" layer="21" curve="72.591831"/>
-<wire x1="0.746" y1="2" x2="2.046" y2="0.9" width="0.2032" layer="21" curve="-72.598009"/>
-<wire x1="-0.492" y1="-2" x2="-1.792" y2="-0.9" width="0.2032" layer="21" curve="-72.598009"/>
-<pad name="1" x="-2" y="0" drill="0.8" diameter="1.6764" first="yes"/>
-<pad name="2" x="2" y="0" drill="0.8" diameter="1.6764"/>
+<wire x1="-0.381" y1="1.651" x2="-1.397" y2="0.9906" width="0.2032" layer="21" curve="35.850234"/>
+<wire x1="0.381" y1="-1.651" x2="1.397" y2="-1.016" width="0.2032" layer="21" curve="41.11215"/>
+<wire x1="0.381" y1="1.651" x2="1.397" y2="1.016" width="0.2032" layer="21" curve="-35.850234"/>
+<wire x1="-0.381" y1="-1.651" x2="-1.397" y2="-1.016" width="0.2032" layer="21" curve="-41.065062"/>
+<pad name="1" x="-1.27" y="0" drill="0.8" diameter="1.6764" first="yes"/>
+<pad name="2" x="1.27" y="0" drill="0.8" diameter="1.6764"/>
 <text x="-2" y="2.4" size="1.27" layer="25" font="vector" ratio="10">&gt;NAME</text>
 </package>
 </packages>
